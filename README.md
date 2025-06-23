@@ -66,4 +66,4 @@ This project demonstrates advanced Android development concepts:
 - **Professional UI**: Clean game interface with intuitive button placement and visual hierarchy
 
 ---
-**Part of my Android development portfolio** | https://github.com/AGButt04 | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
+**Part of my Android development portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
